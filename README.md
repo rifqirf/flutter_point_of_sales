@@ -1,1 +1,1 @@
-# flutter_point_of_sales
+# Multi-Platform Point of Sales with Flutter
